@@ -1,4 +1,4 @@
-# DataScienceProject
+# OlistDSProject
 This project focuses on leveraging data to make informed decisions for a company. 
 It utilizes techniques from both Data Science and Software Quality disciplines to analyze data, generate insights, and create actionable metrics. 
 The project involves working with real-world data from Olist, a Brazilian e-commerce platform.
